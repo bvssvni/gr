@@ -1,0 +1,16 @@
+
+Gr - Basic group oriented programming in C.
+BSD license.
+by Sven Nilsen, 2012
+http://www.cutoutpro.com
+
+Version: 0.000
+in angular degrees versioning notation
+http://isprogrammingeasy.blogspot.no/2012/08/angular-degrees-versioning-notation.html
+
+Group Oriented Programming (GOP) is a programming paradigm that focuses on decisions and operations on groups, the context, circumstances around a situation rather than the single object, event or message. The basic building block "group" must implemented the Boolean operators AND, OR, EXCEPT.
+
+http://isprogrammingeasy.blogspot.no/2012/09/group-oriented-programming.html
+
+In this library I focus on "bitstream" format or "array of slices" and raw binary format.
+
